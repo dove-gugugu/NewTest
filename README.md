@@ -10,3 +10,5 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+## 尝试在微信开发者程序中修改并上传至GitHub
+
