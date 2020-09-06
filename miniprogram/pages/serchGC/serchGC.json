@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "查询垃圾分类",
+  "navigationBarBackgroundColor": "#000",
+  "navigationBarTextStyle": "white",
+  "backgroundTextStyle": "dark",
+  "enablePullDownRefresh": true,
+  "component": true,
+  "usingComponents": {
+    "i-button": "../../dist/button/index"
+  }
+}

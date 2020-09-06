@@ -1,0 +1,5 @@
+/* pages/serchGC/serchGC.wxss */
+page {
+  background-color: white;
+  text-emphasis-color: white;
+}

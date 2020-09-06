@@ -1,0 +1,19 @@
+<!--pages/serchGC/serchGC.wxml-->
+<!-- <text>页面路径：pages/serchGC/serchGC.wxml</text> -->
+<view class="container">
+  <view>
+    <text>欢迎使用垃圾分类查询系统</text>
+  </view>
+  <view class="list">
+    <view>
+      <input placeholder="请输入查询的垃圾名称" class="weui-input" bindinput="getInput"></input>
+    </view>
+    <view class="list-item" > <!--bindtap="serchThing"-->
+      <text>垃圾分类搜索</text>
+      <i-button type="primary" bind:click="serchThing">这是一个按钮</i-button>
+    </view>
+    <view class="list-item" wx:if="{{result}}">
+      <text class="request-text">查询结果：{{result}}</text>
+    </view>
+  </view>
+</view>
