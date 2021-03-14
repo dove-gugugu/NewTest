@@ -4,9 +4,6 @@
         "locale_version": "1.0",
         "locale_name": "中文",
         "locale_type": "zh_CN",
-        "locale_last_updated": "2019-10-18 12:00:00 UTC",
-        "locale_author_name": "TerryChan",
-        "locale_author_email": "napoler2008@gmail.com",
         "locale_source_url": "https://nodetics.com/feedbro/"
     },
     "addfeed_url_body": "Feed地址",
